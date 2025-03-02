@@ -1,0 +1,7 @@
+{
+    "distr_dir": "H:/games/cdda/_distr/",
+    "unpack_dir": "H:/games/cdda/_distr_unpacked/",
+    "userdata_dir": "./cdda_userdata/",
+
+    "zip_extractor_path": "C:/Program Files/7-Zip/7z.exe",
+}
